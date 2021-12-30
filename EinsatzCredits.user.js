@@ -3,10 +3,10 @@
 // @namespace    http://havenith.nrw/
 // @version      3.1.2
 // @description  Dieses Script zeigt zu jedem Einsatz an, wie viele Credits man im Durchschnitt bekommt
-// @author       ViperAC (Original by itsDreyter)
+// @author       SvenS (Orignal by ViperAC (Original by itsDreyter))
 // @match        https://www.leitstellenspiel.de/
-// @updateURL    https://havenith.nrw/lss/EinsatzCredits.user.js
-// @downloadURL  https://havenith.nrw/lss/EinsatzCredits.user.js
+// @updateURL    https://github.com/SvenSchirmer/LSS-Tampermonkey/blob/main/EinsatzCredits.user.js
+// @downloadURL  https://github.com/SvenSchirmer/LSS-Tampermonkey/blob/main/EinsatzCredits.user.js
 // @grant        none
 // ==/UserScript==
 (function () {
